@@ -16,10 +16,10 @@ We have created a dummy **CSV** dataset based on a rugby team, with positions, R
 
 The layout of the dashboard is with a datatable at the top and plots/charts underneath. The data can searched/filtered similar to that of tables in excel, with the plots/charts updating real-time to summerise the data selected.
 
-![](dashboard_6_nations_dummy_example/images/Capture1.png?raw=true)
-![](dashboard_6_nations_dummy_example/images/Capture2.png?raw=true)
-![](dashboard_6_nations_dummy_example/images/Capture3.png?raw=true)
-![](dashboard_6_nations_dummy_example/images/Capture4.png?raw=true)
-![](dashboard_6_nations_dummy_example/images/Capture5.png?raw=true)
-![](dashboard_6_nations_dummy_example/images/Capture6.png?raw=true)
-![](dashboard_6_nations_dummy_example/images/Capture7.png?raw=true)
+![Screenshot_1](dashboard_6_nations_dummy_example/images/Capture1.png?raw=true)
+![Screenshot_2](dashboard_6_nations_dummy_example/images/Capture2.png?raw=true)
+![Screenshot_3](dashboard_6_nations_dummy_example/images/Capture3.png?raw=true)
+![Screenshot_4](dashboard_6_nations_dummy_example/images/Capture4.png?raw=true)
+![Screenshot_5](dashboard_6_nations_dummy_example/images/Capture5.png?raw=true)
+![Screenshot_6](dashboard_6_nations_dummy_example/images/Capture6.png?raw=true)
+![Screenshot_7](dashboard_6_nations_dummy_example/images/Capture7.png?raw=true)
