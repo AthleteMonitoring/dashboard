@@ -16,7 +16,7 @@ We have created a dummy **CSV** dataset based on a rugby team, with positions, R
 
 The layout of the dashboard is with a datatable at the top and plots/charts underneath. The data can searched/filtered similar to that of tables in excel, with the plots/charts updating real-time to summerise the data selected.
 
-![Screenshot_1](dashboard_6_nations_dummy_example/images/Capture1.PNG?raw=true)
+
 
 ![Screenshot_3](dashboard_6_nations_dummy_example/images/Capture3.PNG?raw=true)
 
@@ -24,6 +24,6 @@ The layout of the dashboard is with a datatable at the top and plots/charts unde
 
 ![Screenshot_5](dashboard_6_nations_dummy_example/images/Capture5.PNG?raw=true)
 
-![Screenshot_6](dashboard_6_nations_dummy_example/images/Capture6.PNG?raw=true)
+
 
 
