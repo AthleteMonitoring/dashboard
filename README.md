@@ -22,7 +22,7 @@ The layout of the dashboard is with a datatable at the top and interactive plots
 
 ![Screenshot_4](dashboard_6_nations_dummy_example/images/Capture4.PNG?raw=true)
 
-## or present as many interactive plots/charts as needed
+## ...or present as many interactive plots/charts as needed
 
 ![Screenshot_4](dashboard_6_nations_dummy_example/images/Capture2.PNG?raw=true)
 
