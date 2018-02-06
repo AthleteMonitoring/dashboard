@@ -2,10 +2,10 @@
 
 ## Aims:
 
-- Build a free open source dashboard that clubs/coaches/players/enthusiasts can use to visulise training monitoring or performance.
+- Build a free open source dashboard that clubs/teams/coaches/players/enthusiasts can use to visulise training monitoring or performance.
 - Create a web app style dashboard (not in excel) that can be accessed online (...building to real-time and secure access).
 - Teach coaches/sports staff basic coding skills so that they can create customed dashboards (if there is a need for training).
-- Build relationships with clubs/coaches/players/enthusiasts and see what we can do together (For starters; we will build a dashboard for you based on the data/specication of matrics you want analysed that you provide us...only a few of us in our spare time!!!)
+- Build relationships with clubs/teams/coaches/players/enthusiasts and see what we can do together (For starters; we will build a dashboard for you based on the data/specication of matrics you want analysed that you provide us...only a few of us in our spare time!!!)
 
 
 ## The Dashboard
