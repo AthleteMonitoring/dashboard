@@ -22,7 +22,13 @@ The layout of the dashboard is with a datatable at the top and plots/charts unde
 
 ![Screenshot_4](dashboard_6_nations_dummy_example/images/Capture4.PNG?raw=true)
 
-![Screenshot_5](dashboard_6_nations_dummy_example/images/Capture5.PNG?raw=true)
+
+## Coming soon!
+
+- Put up a live working demo for people to play around with (get thinking about what plots/charts might suit your data)
+- develop other plots/charts that link to the datatable (i.e scatter, pie, tree...)
+
+
 
 
 
