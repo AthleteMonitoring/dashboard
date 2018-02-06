@@ -12,7 +12,7 @@
 
 **6 Nations Dummy Example**
 
-We have created a dummy **CSV** dataset based on a rugby team, with positions, RPE, mins played etc over 5 weeks of matches (numbers are created randomly). 
+We have created a dummy **CSV** dataset based on a rugby team, with positions, RPE, mins played, total load (mins * RPE) etc over 5 weeks of matches (numbers are created randomly). 
 
 The layout of the dashboard is with a datatable at the top and plots/charts underneath. The data can searched/filtered similar to that of tables in excel, with the plots/charts updating real-time to summerise the data selected.
 
