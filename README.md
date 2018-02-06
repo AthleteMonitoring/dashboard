@@ -25,8 +25,11 @@ The layout of the dashboard is with a datatable at the top and plots/charts unde
 
 ## Coming soon!
 
-- Put up a live working demo for people to play around with (get thinking about what plots/charts might suit your data)
-- develop other plots/charts that link to the datatable (i.e scatter, pie, tree...)
+- Put up a live working demo for people to play around with (get thinking about what plots/charts might suit your data).
+- develop other plots/charts that link to the datatable (i.e scatter, pie, tree...).
+- Setup guide so it can run locally by users.
+- Do a nice video of the 6 Nations Dummy Example showing all features.
+- Credit all the amazing work by others that make this possible!!!
 
 
 
