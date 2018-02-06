@@ -18,8 +18,6 @@ The layout of the dashboard is with a datatable at the top and plots/charts unde
 
 ![Screenshot_1](dashboard_6_nations_dummy_example/images/Capture1.PNG?raw=true)
 
-![Screenshot_2](dashboard_6_nations_dummy_example/images/Capture2.PNG?raw=true)
-
 ![Screenshot_3](dashboard_6_nations_dummy_example/images/Capture3.PNG?raw=true)
 
 ![Screenshot_4](dashboard_6_nations_dummy_example/images/Capture4.PNG?raw=true)
@@ -28,4 +26,4 @@ The layout of the dashboard is with a datatable at the top and plots/charts unde
 
 ![Screenshot_6](dashboard_6_nations_dummy_example/images/Capture6.PNG?raw=true)
 
-![Screenshot_7](dashboard_6_nations_dummy_example/images/Capture7.PNG?raw=true)
+
