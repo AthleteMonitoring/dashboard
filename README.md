@@ -1,4 +1,4 @@
-# Dashboard Project
+# Open Dashboard Project
 
 ## Aims:
 
